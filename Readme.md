@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Frontend**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ThunderGer23](https://github.com/ThunderGer23)
+- 👨‍💻 All of my projects are available at [**ThunderGer23**](https://github.com/ThunderGer23)
 
-- 📝 I regularly write articles on [Machine Learning, DBA](Machine Learning, DBA)
+- 📝 I regularly write articles on **Machine Learning**, **DBA** 
 
 - 💬 Ask me about **Node.js, Express**
 
 - 📫 How to reach me **ThunderGer@Outlook.com**
 
-- 📄 Know about my experiences [https://github.com/ThunderGer23](https://github.com/ThunderGer23)
+- 📄 Know about my experiences [**ThunderGer23**](https://github.com/ThunderGer23)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
