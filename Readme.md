@@ -1,3 +1,5 @@
+<img src="/assets/Reacción.webp">
+
 <h1 align="center">Hi 👋, I'm ThunderGer</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
