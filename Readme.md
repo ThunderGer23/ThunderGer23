@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="/assets/Reacción.webp" width="140">, I'm ThunderGer</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
+<div align="center">
+<img src = "https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" width = "300" height = "220">
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderger23&label=Profile%20views&color=0e75b6&style=flat" alt="thunderger23" /> </p>
 
 - 🔭 I’m currently working on **Freelancer**
@@ -18,6 +22,11 @@
 - 📫 How to reach me **ThunderGer@Outlook.com**
 
 - 📄 Know about my experiences [**ThunderGer23**](https://github.com/ThunderGer23)
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/xT77Y1T0zY1gR5qe5O/giphy.gif" width="120" alt="Connect with me" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
