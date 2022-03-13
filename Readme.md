@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="/assets/Reacción.webp" width="140">, I'm ThunderGer</h1>
-<h3 align="center">A passionate backend developer from México</h3>
 
 <div align="center">
 <img src = "https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" width = "300" height = "220">
 </div>
+
+<h3 align="center">A passionate backend developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderger23&label=Profile%20views&color=0e75b6&style=flat" alt="thunderger23" /> </p>
 
