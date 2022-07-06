@@ -7,6 +7,7 @@
 <h3 align="center">A passionate backend developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderger23&label=Profile%20views&color=0e75b6&style=flat" alt="thunderger23" /> </p>
+code coverage percentage: ![coverage](https://img.shields.io/badge/Skills Whish-67%25-yellowgreen)
 
 - 🔭 I’m currently working on **Freelancer**
 
