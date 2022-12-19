@@ -25,6 +25,8 @@
 
 - 📄 Know about my experiences [**ThunderGer23**](https://github.com/ThunderGer23)
 
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h2 align="left">
 <img src="/assets/Book.gif" width="30" alt="Connect with me" />
