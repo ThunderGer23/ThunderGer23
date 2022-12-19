@@ -2,6 +2,7 @@
 
 <div align="center">
 <img src = "https://media.giphy.com/media/2xDcf5tkCRKqqE15JM/giphy.gif" width = "300" height = "220">
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <h3 align="center">A passionate backend developer from México</h3>
@@ -25,9 +26,7 @@
 
 - 📄 Know about my experiences [**ThunderGer23**](https://github.com/ThunderGer23)
 
-<div style="text-align: center;">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 <h2 align="left">
 <img src="/assets/Book.gif" width="30" alt="Connect with me" />
 Connect with me:
